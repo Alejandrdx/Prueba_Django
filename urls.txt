@@ -1,0 +1,4 @@
+api/usuario lista todos los usuarios
+api/usuario/# muesrta un usuario (ya tiene permisisos)
+api/login/ login 
+
